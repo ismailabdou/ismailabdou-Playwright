@@ -8,15 +8,15 @@
     "generate:reports": "npx allure generate ./allure-results/ --clean",
     "open:reports": "npx allure open ./allure-report/",
     "pretest": "npm run clean:reports",
-    "posttest": "npm run generate:reports && npm run open:reports",
+    "posttest": "npm run generate:reports",
     "script:to:run": "npx playwright test pom",
-    "test":"npm run script:to:run || npm run posttest"
+    "test": "npm run script:to:run || npm run posttest"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@playwright/test": "^1.56.1",
+    "@playwright/test": "^1.57.0",
     "@types/node": "^24.7.2",
     "allure-commandline": "^2.34.1",
     "allure-playwright": "^3.4.2",
