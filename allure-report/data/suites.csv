@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","178","outside suite 2 @sanity","chromium","Wed Nov 26 08:30:46 EET 2025","passed","Wed Nov 26 08:30:46 EET 2025","","pom.spec.ts","",""
+"","5571","E2E","chromium","Wed Nov 26 08:30:40 EET 2025","passed","Wed Nov 26 08:30:46 EET 2025","E2E Test Suite","pom.spec.ts","",""
+"","170","outside suite 2 @smoke","chromium","Wed Nov 26 08:30:47 EET 2025","passed","Wed Nov 26 08:30:47 EET 2025","","pom.spec.ts","",""
+"","213","outside suite 1 @smoke","chromium","Wed Nov 26 08:30:46 EET 2025","passed","Wed Nov 26 08:30:47 EET 2025","","pom.spec.ts","",""
+"","181","outside suite 1 @sanity","chromium","Wed Nov 26 08:30:46 EET 2025","passed","Wed Nov 26 08:30:46 EET 2025","","pom.spec.ts","",""
